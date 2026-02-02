@@ -20,7 +20,7 @@ GitMolt uses Base L2 USDC for entry fees. This document specifies how payments a
 | Token | USDC |
 | Contract | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
 | Entry Fee | 1.00 USDC |
-| Treasury | TBD (multi-sig or single address) |
+| Treasury | `0x3e98b823668d075a371212EAFA069A2404E7DEfb` |
 
 ---
 
